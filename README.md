@@ -16,11 +16,10 @@ I’ve learned to build complete web applications from scratch, collaborate usin
 Here are some thoughts and personal takeaways from the Bootcamp:
 
 - I’m proud of how far I’ve come from zero to being able to create **real-world applications**.
-- I improved a lot in **React hooks**, and integrating frontend with backend APIs.
+- I improved a lot in **routing**, and integrating frontend with backend APIs.
 - I've learned to stay curious and independent when debugging or exploring new libraries.
 
 ## 👣 Next Steps
-
 I’m ready to:
 - Continue building personal projects to grow my portfolio
 - Learn additional tools 
